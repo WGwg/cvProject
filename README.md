@@ -7,7 +7,7 @@
 
 ## 首页
 
-![](_images/shouyelogo.png)
+![](images/shouyelogo.png)
 
 
 ## 用法
