@@ -5,6 +5,11 @@
 天津工业大学计算机视觉大作业。
 
 
+## 首页
+
+
+
+
 ## 用法
 
 我自己这边的环境：
@@ -29,12 +34,16 @@ $ cd cvProject
 
 ```
 
-### 只要图像检索需要 提取特征
+### 只有图像检索需要 提取特征
 
 ```sh
 $ python index.py -database <path-to-dataset> -index <name-for-output-index>
 ```
 生成的是 h5 格式的文件，把它放到 model 中。
+
+### 其他的图像基本处理不需要
+
+
 
 ### 运行
 
